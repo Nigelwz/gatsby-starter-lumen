@@ -1,0 +1,18 @@
+---
+title: "關於一個喜歡深山的工程師"
+template: "page"
+socialImage: ""
+---
+
+## Job : Philio
+    -工作內容主要是開發 IOT device and gatway 相關,從底層的Ｃ漸漸到 embedded
+    linux領域都有接觸,畢竟學習還是需要比較扎實,所以從底層driver 到 linux 上層 
+    appilication,慢慢循序漸進的學習方式對自己本身會比較有幫助！
+
+- Job : Primax
+  工作內容主要是開發 IP cam 跟 UVC camera,公司本身是ODM 跟 OEM 公司,所以可以
+  接觸到各式各樣的平台,本身也有在接觸CI/CD, e.g. Jenkins,bugzilla,docker.
+
+- 技能:
+   - c語言 embedded linux, web socket, aws, docker , Zwave device
+

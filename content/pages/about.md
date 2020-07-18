@@ -1,13 +1,27 @@
 ---
-title: "About me"
+title: "關於我"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: ""
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+## 第一份工作 : Philio
+- 工作內容主要是開發 IOT device and gatway 相關,從底層的Ｃ到 embedded
+    linux領域都有接觸, linux 主要 platform 是 MTK 7628.功能是一般家用 
+    router.
+- 架構 主要是負責橋接 cloud 與 iot 相關dongle. 並且有 apache server 可以
+  作 server 的工作.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+## 第二份工作 : Primax
+- 工作內容主要是開發 IP cam 跟 UVC camera,公司本身是ODM 跟 OEM 公司,所以可以
+  接觸到各式各樣的平台,本身也有在接觸CI/CD, e.g. Jenkins,bugzilla,docker.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+- 平台 : socinext,qualcomn,reltek
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+## 技能:
+   - c語言 
+   - embedded linux
+   - web socket
+   - aws
+   - docker 
+   - Zwave protocol
+
