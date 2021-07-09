@@ -39,7 +39,7 @@ My task is bring up  uart driver.
 	-	**Socionext**
         - It’s a uvc camera product base.
 The code base is rtos and linux.
-            - 	**<font color=#FF0000>I was responsible for rtos and linux communication.
+        - 	**<font color=#FF0000>I was responsible for rtos and linux communication.
           That communication is depend on memory pool.
           Modify kernel's filesystem source code.
           </font>**
