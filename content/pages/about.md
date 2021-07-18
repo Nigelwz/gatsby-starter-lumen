@@ -1,5 +1,5 @@
 ---
-title: "About Eric"
+title: "About Nigel"
 template: "page"
 socialImage: ""
 ---

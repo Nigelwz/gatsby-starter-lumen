@@ -3,9 +3,9 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by Eric Wang',
+  title: 'Blog by Nigel Wang',
   subtitle: '',
-  copyright: '© All rights reserved.',
+  copyright: '',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -25,7 +25,7 @@ module.exports = {
     //}
   ],
   author: {
-    name: 'Eric w',
+    name: 'Nigel w',
     photo: '/photo.jpg',
     bio: 'Stay hungry,Stay foolish',
     contacts: {

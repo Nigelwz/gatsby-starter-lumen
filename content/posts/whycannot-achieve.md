@@ -11,7 +11,6 @@ description: ""
 socialImage: ""
 ---
 
-# Why You're Not Achieving More in Life!
 
 I think everyone has the problem about how to control ourselves. Sometimes we have a dream or we have a idea need to be implemented, but we will be affected easily. I think we need to think  ourselves and we need to try  thinking how to do or what the reason make you do the thing. I think if we think about the factor everyday, and we can try to visualize our dream and then imagine we have achieved our dream. It will help us can't be affeted easily. If our dream need to be come true a long time, above the advise is helpful. 
     
