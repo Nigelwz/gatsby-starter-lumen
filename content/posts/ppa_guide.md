@@ -8,7 +8,7 @@ category: "ubuntu develop"
 tags:
   - "ubuntu develop"
 description: ""
-socialImage: "https://i.imgur.com/VlEA3bI.jpg"
+socialImage: "/media/river.jpg"
 ---
 
 # ubuntu debian package develop steps
