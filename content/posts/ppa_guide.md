@@ -3,12 +3,12 @@ title: Ubuntu debian package develop
 date: "2022-02-13T21:28:37.121Z"
 template: "post"
 draft: false
-slug: "English"
+slug: "ubuntu-develop"
 category: "ubuntu develop"
 tags:
   - "ubuntu develop"
 description: ""
-socialImage: ""
+socialImage: "https://i.imgur.com/VlEA3bI.jpg"
 ---
 
 # ubuntu debian package develop steps
